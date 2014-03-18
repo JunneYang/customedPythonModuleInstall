@@ -1,0 +1,8 @@
+mkdir buildDir
+python setup.py build --build-base=buildDir
+mkdir -p installDir/lib/python
+pwd
+/home/upps/Upps_test/monitor/monitor4UserPreference/protobuf-2.5.0/python
+export PYTHONPATH=$PYTHONPATH:/home/home/upps/Upps_test/monitor/monitor4UserPreference/protobuf-2.5.0/python/installDir/lib/python
+python setup.py install --home=installDir
+
