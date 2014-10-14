@@ -1,4 +1,4 @@
-customedInstalling4PythonModule
+customedInstalling4pythonmodule
 ===========================    
 
 ### Introduction:
